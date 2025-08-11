@@ -8,7 +8,12 @@ wheels/
 
 # Virtual environments
 .venv
+.env
 
 # Uv
 .python-version
+uv.lock
+.mypy_cache
 
+# Test
+.pytest_cache
