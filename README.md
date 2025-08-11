@@ -21,3 +21,5 @@ docker-compose up
 ```
 uv run pytest
 ```
+<img width="311" height="88" alt="image" src="https://github.com/user-attachments/assets/ddc4fb78-147b-4f2b-aa47-0e7fbd62c163" />
+
